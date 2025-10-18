@@ -54,3 +54,18 @@
 ![Docker](https://img.shields.io/badge/docker%20📡-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE5NDI0eTk2dGI0endkcG0wZGJ4N3BmdTduM242amoyODY3NTdwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width="35"> Stats do Github</h2>
+<p align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=neemo-o&theme=github-dark-blue&border=61dafb&hide_border=true" alt="neemoo-o"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=neemo-o&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
+  </a>
+</p>
+
+</div>
+</br>
+</br>
+
