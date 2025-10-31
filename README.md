@@ -26,6 +26,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown%20-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![git](https://img.shields.io/badge/Git⭐-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 <h4 align="left">💾 Banco de dados:</h4>
