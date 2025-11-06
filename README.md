@@ -4,7 +4,7 @@
 
 <h2 align="center">Sobre mim</a></h2>
 
-- 📖 Atualmente estudando **Engenharia de Software**
+- 📖 Atualmente cursando **Engenharia de Software**
 - 👷 Maior parte do tempo trabalhando em projetos pessoais (Repositórios privados)
 - 💀 Desenvolvedor Full-stack, porém com foco em desenvolvimento na área de back-end
 
