@@ -31,10 +31,10 @@
 
 <h4 align="left">💾 Banco de dados:</h4>
 
-![MySQL](https://img.shields.io/badge/MySQL⭐-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql⭐-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 <h4 align="left">☁️ Serviço em nuvem:</h4>
